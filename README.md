@@ -6,6 +6,10 @@ ParkIT is a web-based application that simplifies the process of reserving parki
 
 ## Features 📋
 
+### Authentication (Login)
+- Admin Login to access Admin Dashboard
+- User Login to access User Dashboard
+
 ### User Dashboard
 - **Reserve Slots**: Users can view available parking slots and reserve them by specifying start and end times.
 - **Payment Gateway**: Integrated payment system with dynamic pricing:
