@@ -38,10 +38,10 @@ ParkIT is a web-based application that simplifies the process of reserving parki
 ---
 
 ## Project Structure 🗂️
-
+```
 plaintext
 ParkIT/
-├── parkit/                # Django project settings and configurations
+├── parkit/  # Django project settings and configurations
 │   ├── settings.py
 │   ├── urls.py
 │   └── ...
@@ -62,7 +62,7 @@ ParkIT/
 ├── manage.py              # Django management script
 └── README.md              # Project documentation
 
-
+```
 ---
 
 ## Installation and Setup 🚀
