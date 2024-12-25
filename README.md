@@ -150,7 +150,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 - **Font Awesome** for the beautiful icons.
 - **Django** for making web development easy and scalable.
-- **OpenAI** for providing assistance in crafting this application.
 
 ---
 
@@ -159,6 +158,3 @@ This project is licensed under the [MIT License](LICENSE).
 - Coming soon! Stay tuned for live demo links.
 
 ---
-
-Feel free to customize this README for your specific project details or needs. Let me know if you'd like me to help you further! 😊
-```
