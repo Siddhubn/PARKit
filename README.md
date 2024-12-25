@@ -69,7 +69,7 @@ ParkIT/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Siddhubn/ParkIT.git
+   git clone https://github.com/Siddhubn/PARKit.git
    cd ParkIT
    ```
 
