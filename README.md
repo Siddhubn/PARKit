@@ -129,6 +129,11 @@ ParkIT/
 
 ---
 
+## Snapshots 📷
+- Click on [This](./Parkit_Snapshots) to view the Snapshots of the UI of the WebApp.
+
+---
+
 ## Contributing 🤝
 
 Contributions are welcome! Please follow these steps to contribute:
