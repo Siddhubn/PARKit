@@ -130,7 +130,7 @@ ParkIT/
 ---
 
 ## Snapshots 📷
-- Click on [This](./Parkit_Snapshots) to view the Snapshots of the UI of the WebApp.
+- Click on [This](./Parkit-Snapshots) to view the Snapshots of the UI of the WebApp.
 
 ---
 
