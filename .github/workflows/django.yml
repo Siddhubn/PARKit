@@ -29,12 +29,12 @@ jobs:
         pip install -r parkit/requirements.txt
 
     - name: Run Migrations
-      working-directory: ./parkit
+      working-directory: ./parkit/
       run: |
         python manage.py migrate --noinput
 
     - name: Collect Static Files
-      working-directory: ./parkit
+      working-directory: ./parkit/
       run: |
         python manage.py collectstatic --noinput
 
