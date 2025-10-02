@@ -31,6 +31,7 @@ jobs:
     - name: Run Migrations
       working-directory: ./parkit/
       run: |
+        python manage.py makemigrations --noinput
         python manage.py migrate --noinput
 
     - name: Collect Static Files
