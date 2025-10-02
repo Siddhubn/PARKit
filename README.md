@@ -70,13 +70,13 @@ ParkIT/
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Siddhubn/PARKit.git
-   cd ParkIT
+   cd parkit
    ```
 
 2. **Set Up Virtual Environment**
    ```bash
    python -m venv venv
-   source venv/bin/activate   # On Windows: venv\Scripts\activate
+   venv\Scripts\activate   # On Mac\Linux: source venv/bin/activate
    ```
 
 3. **Install Dependencies**
@@ -91,7 +91,7 @@ ParkIT/
 
 5. **Create Superuser**
    ```bash
-   python manage.py createsuperuser
+   python manage.py createsuperuser #enter login credentials through the terminal for the initial admin login - username, email, password.
    ```
 
 6. **Run the Development Server**
@@ -160,6 +160,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### Demo 🎥
 
-- Coming soon! Stay tuned for live demo links.
-
+- URL: [PARKit](https://parkit-4od3.onrender.com/)
 ---
